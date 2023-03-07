@@ -2,7 +2,7 @@
 #define FLEXRAY_FRAME_H
 
 #include <LogicPublicTypes.h>
-
+#include <vector>
 #include <AnalyzerResults.h>
 #include "Helpers.h"
 #include "FlexRayAnalyzerResults.h"
